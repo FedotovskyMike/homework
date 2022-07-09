@@ -4,7 +4,7 @@
 // 1 -3,3 8 -9,9
 // 8 7,8 -7,1 9
 
-/* Console.Clear();
+Console.Clear();
 
 Console.Write("Введите m: ");
 int m = Convert.ToInt32(Console.ReadLine());
@@ -44,7 +44,7 @@ void WriteArray(double[,] array)
         }
         Console.WriteLine();
     }
-} */
+}
 
 
 // Задача 50: Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.
